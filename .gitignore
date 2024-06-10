@@ -1,0 +1,13 @@
+# Ignore the entire .idea folder
+.idea/
+
+# But include the following files and folders
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/encodings.xml
+!.idea/dictionaries
+!.idea/runConfigurations
+
+# Exclude workspace.xml explicitly
+.idea/workspace.xml
